@@ -1,1 +1,63 @@
+*Pagina 1*
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mis mejores peliculas</title>
+  </head>
+  <body>
+  
+    <p>Mis mejores peliculas:</p>
+<ul>
+   <img src="cartel toy story.png" alt="toy story">
+   <li>toy story</li>
+   <img src="cartel La ola.png" alt="La ola">
+   <li>la ola</li> 
+   <img src="Cartel Papa o mama.png" alt="papa o mama">
+   <li>Papa o mama</li>
+   <img src="Cartel Coco.png" alt="Coco">
+   <li>Coco</li>
+   <img src="cartel Beetlejuice.png" alt="Beetlejuice">
+   <li>Beetlejuice</li>
+   <img src="cartel Kill Bill.png" alt="Kill Bill">
+   <li>Kill Bill</li> 
+   <img src="cartel Wonder.png" alt="Wonder">
+   <li>Wonder</li>
+   <img src="cartel Megamind.png" alt="Megamind">
+   <li>Megamind</li> 
+   <img src="Cartel Toc Toc.png" alt="Toc Toc">
+   <li>Toc toc</li>
+   <img src="Cartel Mamma mia.png" alt="Mamma mia">
+   <li>Mamma mia</li>
+</ul>
 
+  </body>
+</html>
+
+
+
+*Pagina 1*
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Las cinco mejores que veriamos de una sentada</title>
+  </head>
+  <body>
+  
+    <p>Las cinco peliculas:</p>
+<ol>
+   <img src="cartel Avatar.png" alt="Avatar">
+   <li>Avatar</li>
+   <img src="cartel Titanic.png" alt="Titanic">
+   <li>Titanic</li> 
+   <img src="Cartel Star Wars.png" alt="Star Wars">
+   <li>Star Wars</li>
+   <img src="Cartel Jurassic World.png" alt="Jurassic World">
+   <li>Jurassic World</li>
+   <img src="cartel The Avengers.png" alt="The Avengers">
+   <li>The Avengers</li>
+</ol>
+
+  </body>
+</html>
